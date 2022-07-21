@@ -1,2 +1,1 @@
-# AUTO_EMBEDDED
-微信公众号： 车载嵌入式（AUTO_EMBEDDED）
+
